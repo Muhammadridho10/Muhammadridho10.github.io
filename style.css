@@ -1,0 +1,21 @@
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h5, .h3, h5, h3 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-bottom-color: black;
+}
+.h1, h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20pt;
+}
+.nav-link{
+    background-color: 29ABE2;
+}
+.nav-link:hover{
+background-color: rgb(8, 155, 234);
+
+}
+.nav-link:active{
+    background-color: rgb(8, 155, 234);
+}

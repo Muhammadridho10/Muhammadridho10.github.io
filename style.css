@@ -70,3 +70,18 @@ h3.section-title::after {
     background-color:#2c378e;
 
 }
+
+baru
+
+.navbar-expand-lg .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+}
+.collapse:not(.show) {
+    display: none;
+}
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+}

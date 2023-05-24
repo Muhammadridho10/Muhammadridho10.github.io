@@ -98,11 +98,11 @@ h3.section-title::after {
     color: rgb(255, 255, 255);
 }
 
-.card1{
+.card{
     size: 200px 200px;
     margin-top: 25px;
 }
-.card1 p{
+.card p{
     font-size: 12pt;
 }
 .container {
@@ -175,7 +175,7 @@ h3.section-title::after {
         width: 10rem;
         margin-left: 35px;
     }
-    .card1{
+    .card{
         padding: 3%;
     }
 
@@ -271,4 +271,25 @@ h3.section-title::after {
     width: 100%;
     z-index: 1000;
     position: fixed;
+}
+
+.text-news h5{
+    font-size: 10pt;
+    opacity: 50%;
+}
+
+.text-event h5{
+    font-size: 10pt;
+    opacity: 50%;
+}
+.hero {
+    width: 100%;
+    height: 440px;
+    background-image: url(assets/ti.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
